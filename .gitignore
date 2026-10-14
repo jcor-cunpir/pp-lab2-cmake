@@ -1,0 +1,8 @@
+# Carpetas generadas por CMake: NUNCA van a Git
+build/
+# Ejecutables y ficheros objeto generados a mano con g++
+*.o
+*.obj
+*.exe
+a.out
+hotel
